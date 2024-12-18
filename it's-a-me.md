@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Srimp4
+- 👋 Hi, I’m @Srimp4, call me Shrimp
 - 👀 I’m interested in proggraming, design and video games
 - 🌱 I’m currently learning C++
 - 📫 my discord: srimp1/shrimp
